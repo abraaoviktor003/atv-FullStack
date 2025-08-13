@@ -31,4 +31,16 @@ while (senhaDigitada != senha && tentativas <= 3) {
     tentativas++;
     senhaDigitada = prompt('Digite a senha');
 }
+// imprima e some todos os números do intervalo de 0 a 50
+
+let iterador = 0; // número que vai variar de 0 a 50
+let acumulador = 0; // soma dos números do intervalo de 0 a 50
+let fimIntervalo = 50;
+
+while (iterador <= fimIntervalo) {
+    console.log(iterador); // imprime o número atual
+    acumulador += iterador; // soma o número atual ao acumulador
+    iterador++; // passa para o próximo número
+}
+
 
