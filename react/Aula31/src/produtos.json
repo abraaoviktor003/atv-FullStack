@@ -1,0 +1,32 @@
+[
+  {
+    "nomeProduto": "Câmera Fotográfica",
+    "descricaoProduto": "Câmera profissional com lente 50mm.",
+    "precoProduto": "R$ 2.500,00",
+    "imagemProduto": "/assets/produto1.jpeg"
+  },
+  {
+    "nomeProduto": "Kit de Utensílios de Cozinha",
+    "descricaoProduto": "Conjunto com 12 peças em silicone.",
+    "precoProduto": "R$ 150,00",
+    "imagemProduto": "/assets/produto2.jpeg"
+  },
+  {
+    "nomeProduto": "Kit Papelaria",
+    "descricaoProduto": "Cadernos, canetas e marcadores.",
+    "precoProduto": "R$ 80,00",
+    "imagemProduto": "/assets/produto3.jpeg"
+  },
+  {
+    "nomeProduto": "Fone de Ouvido Bluetooth",
+    "descricaoProduto": "Som de alta qualidade e bateria longa.",
+    "precoProduto": "R$ 300,00",
+    "imagemProduto": "/assets/produto4.jpeg"
+  },
+  {
+    "nomeProduto": "Smartwatch",
+    "descricaoProduto": "Relógio inteligente com monitor cardíaco.",
+    "precoProduto": "R$ 450,00",
+    "imagemProduto": "/assets/produto5.jpeg"
+  }
+]
