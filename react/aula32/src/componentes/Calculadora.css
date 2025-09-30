@@ -1,0 +1,9 @@
+.calc-container {
+    max-width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    text-align: center;
+    background: #f9f9f9; 
+}

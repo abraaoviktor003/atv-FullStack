@@ -1,0 +1,59 @@
+.form-card {
+  max-width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.form-card h2 {
+  text-align: center;
+  margin-bottom: 15px;
+  color: #007bff;
+}
+
+.form-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form-card input,
+.form-card textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-card button {
+  padding: 10px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.form-card button:hover {
+  background: #0056b3;
+}
+
+.produtos-lista {
+  margin-top: 20px;
+}
+
+.produto-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  background: #fff;
+}
+
+.produto-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
