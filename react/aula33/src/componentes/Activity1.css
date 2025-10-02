@@ -1,0 +1,32 @@
+.atividade1-card {
+  max-width: 360px;
+  margin: 40px auto;
+  padding: 16px;
+  border: 1px solid #747474;
+  border-radius: 8px;
+  background: #ffffff;
+  text-align: center;
+}
+
+.atividade1-card h2 {
+  margin-bottom: 14px;
+  font-size: 18px;
+}
+
+.botoes {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.botoes button {
+  padding: 10px 14px;
+  border: 1px solid #141313;
+  background: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.botoes button:hover {
+  background: #000000;
+}

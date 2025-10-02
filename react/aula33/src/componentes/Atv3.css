@@ -1,0 +1,54 @@
+.atv3-card {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #fafafa;
+}
+
+.atv3-card h2 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.form input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.form button {
+  padding: 8px 12px;
+  border: 1px solid #333;
+  background: #030303;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background: #575757;
+}
+
+.lista-feriados table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.lista-feriados th,
+.lista-feriados td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.lista-feriados th {
+  background: #eee;
+}

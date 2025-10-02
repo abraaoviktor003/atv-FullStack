@@ -1,0 +1,78 @@
+.atv2-card {
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #4c3582;
+}
+
+.atv2-card h2 {
+  margin-bottom: 16px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.field label {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.field input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #101010;
+}
+
+button[type="submit"] {
+  margin-top: 8px;
+  padding: 10px 12px;
+  border: 1px solid #333;
+  background: #000000;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background: #8640ff;
+}
+
+.boas-vindas {
+  margin-top: 16px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.tabela-container {
+  margin-top: 16px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table th,
+table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+table th {
+  background: #eee;
+  font-weight: 700;
+}
